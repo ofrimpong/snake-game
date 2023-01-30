@@ -1,2 +1,5 @@
 # snake-game
-Snake game built in python
+
+### To run
+Open a terminal, navigate to the repo folder and run
+`python3 snake.py`
